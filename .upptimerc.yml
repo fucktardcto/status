@@ -22,5 +22,5 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: $fcktard are you OK??
   navbar:
-    - title: GitHub
+    - title: Github
       href: https://github.com/$OWNER
