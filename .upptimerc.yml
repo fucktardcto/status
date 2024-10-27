@@ -16,4 +16,4 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: $fcktard status
+  name: fcktard status
