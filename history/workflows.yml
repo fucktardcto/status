@@ -1,7 +1,7 @@
 url: $WORKFLOWS_URL
-status: up
-code: 200
-responseTime: 385
-lastUpdated: 2025-01-23T23:14:14.976Z
+status: down
+code: 500
+responseTime: 390
+lastUpdated: 2025-01-24T17:31:52.703Z
 startTime: 2024-10-27T01:27:02.985Z
 generator: Upptime <https://github.com/upptime/upptime>
