@@ -52,9 +52,9 @@
     "url": "https://jpg.fucktard.meme/",
     "icon": "https://icons.duckduckgo.com/ip3/jpg.fucktard.meme.ico",
     "slug": "jpg-fucktard-meme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
@@ -64,6 +64,7 @@
     "timeMonth": 318,
     "timeYear": 327,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2024-10-31": 516,
       "2024-10-30": 1440,
       "2024-10-29": 823
