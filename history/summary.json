@@ -4,7 +4,7 @@
     "url": "https://t.me/fcktardportal",
     "icon": "https://icons.duckduckgo.com/ip3/t.me.ico",
     "slug": "fcktardportal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 654,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-02": 18,
       "2025-07-31": 110,
       "2025-07-30": 23,
